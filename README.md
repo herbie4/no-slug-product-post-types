@@ -1,6 +1,8 @@
 # no-slug-product-post-types
 
-Tiny little plugin to remove the slug from WooCommerce product post types.
+Tiny little WordPress plugin to remove the slug from WooCommerce product post types.
+
+Tested with WP version 4.2.4 and WooCommerce version 2.4.6.
 
 Based on the plugin from Devin Price.
 
